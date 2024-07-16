@@ -1,0 +1,9 @@
+{
+	"name": "adfaccpenv",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da780749-dda7-4607-91c0-060e29365f01",
+		"tenantId": "51e62f90-b72f-472d-9aab-445c9c0254cc"
+	}
+}
