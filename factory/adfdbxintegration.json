@@ -1,0 +1,15 @@
+{
+	"name": "adfdbxintegration",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned,UserAssigned",
+		"principalId": "44fd16fd-e166-4463-b0b3-41719c32c6ab",
+		"tenantId": "51e62f90-b72f-472d-9aab-445c9c0254cc",
+		"userAssignedIdentities": {
+			"/subscriptions/a6bed288-5221-40ff-bdcc-9692062fb187/resourcegroups/dbx/providers/Microsoft.ManagedIdentity/userAssignedIdentities/mgid-datatransfer": {
+				"clientId": "de8f2de2-9575-4a60-9920-c1b36540394c",
+				"principalId": "70c7e529-89ff-4008-a61d-75d32c656f6f"
+			}
+		}
+	}
+}
